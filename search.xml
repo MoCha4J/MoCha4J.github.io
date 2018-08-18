@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[博客示例]]></title>
+    <url>%2F2018%2F08%2F18%2FDemo%2F</url>
+    <content type="text"><![CDATA[一级标题二级标题三级标题 列表1 列表2 詹姆斯激励年轻运动员：去做就对了 斜体文字 加粗文字 &lt;html&gt;&lt;/html&gt; 12345678&lt;html&gt; &lt;head&gt; &lt;title&gt;博客示例&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;font color=&apos;red&apos;&gt;Hello.MoCha&lt;/font&gt; &lt;/body&gt;&lt;/html&gt; 我是引用不要轻易撩我~]]></content>
+      <categories>
+        <category>演示</category>
+      </categories>
+      <tags>
+        <tag>入门</tag>
+        <tag>技术型</tag>
+      </tags>
+  </entry>
+</search>
